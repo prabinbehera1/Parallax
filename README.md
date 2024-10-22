@@ -57,6 +57,10 @@ The JavaScript code controls the parallax effect by adjusting the margins and po
 
 4. Run the project: Open the index.html file in your browser to view the website.
 
+## Demo
+
+You can view the live demo of this project [here](https://parallaxsphere.netlify.app/).
+
 ## Future Improvements
 
 - Add more interactive elements to enhance the parallax effect.
